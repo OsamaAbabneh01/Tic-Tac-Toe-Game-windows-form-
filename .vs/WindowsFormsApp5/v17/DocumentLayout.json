@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\This PC\\Documents\\GitHub Projects\\WindowsFormsApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB3E9C-D8A5-4BB4-9334-5B23EAFF71EA}|WindowsFormsApp5.csproj|e:\\this pc\\documents\\github projects\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB3E9C-D8A5-4BB4-9334-5B23EAFF71EA}|WindowsFormsApp5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB3E9C-D8A5-4BB4-9334-5B23EAFF71EA}|WindowsFormsApp5.csproj|E:\\This PC\\Documents\\GitHub Projects\\WindowsFormsApp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22EB3E9C-D8A5-4BB4-9334-5B23EAFF71EA}|WindowsFormsApp5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\This PC\\Documents\\GitHub Projects\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\This PC\\Documents\\GitHub Projects\\WindowsFormsApp5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:08:54.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\This PC\\Documents\\GitHub Projects\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Programs\\Visual Stedio\\Part_B\\WindowsFormsApp5\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Programs\\Visual Stedio\\Part_B\\WindowsFormsApp5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:05:06.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

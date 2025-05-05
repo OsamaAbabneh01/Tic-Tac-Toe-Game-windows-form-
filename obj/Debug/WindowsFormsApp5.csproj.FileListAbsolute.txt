@@ -1,0 +1,15 @@
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.manifest
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.application
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.TrustInfo.xml
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.manifest
+E:\Programs\Visual Stedio\Part_B\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.application
